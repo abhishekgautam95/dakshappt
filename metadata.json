@@ -1,0 +1,6 @@
+{
+  "name": "English Bridge Presentation",
+  "description": "A beautiful, premium presentation about English connecting cultures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
