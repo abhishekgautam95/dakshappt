@@ -21,6 +21,7 @@ export const Slide1 = () => (
       <input
         type="text"
         placeholder="Enter Presenter Name"
+        defaultValue="Daksha"
         className="text-center font-bold text-lg md:text-xl text-slate-800 bg-white/80 backdrop-blur-md border border-slate-200 rounded-full focus:border-blue-600 focus:ring-4 focus:ring-blue-100 outline-none w-[350px] py-4 shadow-xl shadow-blue-900/5 transition-all hover:bg-white"
       />
     </motion.div>
